@@ -10,6 +10,7 @@ return array
 
 function johnLennonFacts (facts) {
   var moreFacts = []
+  let i = 0
   while (moreFacts.length > 0)
   
   return moreFacts.push(`${facts}!!!`)
