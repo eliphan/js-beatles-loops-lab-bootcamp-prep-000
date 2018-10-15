@@ -15,7 +15,7 @@ function johnLennonFacts (facts) {
   while (i < facts.length) {
   i++;
  }
-  excFacts.push(`${facts}[i]!!!`)
+  excFacts.push(`${facts[i]}!!!`)
   
   return excFacts
 }
