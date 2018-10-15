@@ -13,9 +13,10 @@ function johnLennonFacts (facts) {
   
   let i = 0
   while (i < facts.length) {
+    excFacts.push(`${facts[i]}!!!`)
   i++;
  }
-  excFacts.push(`${facts[i]}!!!`)
   
   return excFacts
 }
+
