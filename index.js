@@ -9,9 +9,9 @@ return array
 }
 
 function johnLennonFacts (facts) {
-  var moreFacts = []
+  var ExcFacts = []
   let i = 0
-  while (moreFacts.length > 0)
+  while (i<ExcFacts[i])
   
   return moreFacts.push(`${facts}!!!`)
 }
