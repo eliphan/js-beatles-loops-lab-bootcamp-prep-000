@@ -9,5 +9,5 @@ return array
 }
 
 function johnLennonFacts (facts) {
-  
+  while 
 }
