@@ -20,3 +20,7 @@ function johnLennonFacts (facts) {
   return excFacts
 }
 
+function iLoveTheBeatles (n) {
+  var love = []
+  
+}
