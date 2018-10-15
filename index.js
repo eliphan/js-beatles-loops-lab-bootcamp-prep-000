@@ -10,5 +10,5 @@ return array
 
 function johnLennonFacts (facts) {
   var moreFacts = []
-  while moreFacts.length > 0
+  while (moreFacts.length > 0)
 }
