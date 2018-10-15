@@ -11,7 +11,7 @@ return array
 function johnLennonFacts (facts) {
   var ExcFacts = []
   let i = 0
-  while (i<ExcFacts[i])
+  while (i < facts.length)
   
   return moreFacts.push(`${facts}!!!`)
 }
