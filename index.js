@@ -9,5 +9,6 @@ return array
 }
 
 function johnLennonFacts (facts) {
+  var moreFacts = []
   while 
 }
