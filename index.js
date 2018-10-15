@@ -12,5 +12,5 @@ function johnLennonFacts (facts) {
   var moreFacts = []
   while (moreFacts.length > 0)
   
-  return 
+  return moreFacts.push(`${facts}!!!`)
 }
